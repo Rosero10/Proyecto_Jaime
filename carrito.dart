@@ -1,3 +1,0 @@
-class Carrito {
-  List productos = [];
-}
